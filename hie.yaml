@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "anoBisiesto:lib"
+
+    - path: "./test"
+      component: "anoBisiesto:test:anoBisiesto-test"
